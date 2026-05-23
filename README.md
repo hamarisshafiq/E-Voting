@@ -83,6 +83,8 @@ The admin panel provides complete control over election management and system op
 
 
 ## Result Panel
+<img width="959" height="506" alt="Screenshot 2026-05-23 222615" src="https://github.com/user-attachments/assets/31e822c3-97d2-46f9-be40-0e390677dd48" />
+<img width="959" height="501" alt="Screenshot 2026-05-23 222628" src="https://github.com/user-attachments/assets/7c774d45-4491-493d-8772-5f2e3cdaee16" />
 
 
 ---
@@ -95,4 +97,4 @@ Completed and functional for academic and learning purposes.
 
 # Author
 
-Developed by [Your Name]
+Developed by Hamaris Shafiq.
